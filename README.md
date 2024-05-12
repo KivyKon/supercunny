@@ -1,0 +1,2 @@
+# Supercunny
+funny website
